@@ -5,7 +5,6 @@ HELP.md
 !**/src/test/**/target/
 
 */target/*
-*target/classes/*
 
 ### STS ###
 .apt_generated
