@@ -6,6 +6,7 @@ HELP.md
 
 */target/*
 *target/classes/*
+*/bin/*
 
 ### STS ###
 .apt_generated
